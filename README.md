@@ -1,11 +1,11 @@
 <style>
-  * {
-    text-align: center;
-  }
-  .Title {
-    font-size: large;
-    font-weight: bold
-  }
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
 </style>
-<p class="Title"> Hi, I’m @YeahEsCereal </p>
-<p> Pronouns: He/Him </p>
+
+<div class="green">
+    Markdown css styles
+</div>
