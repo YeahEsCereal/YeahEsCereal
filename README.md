@@ -1,5 +1,7 @@
-<p class="Title"> Hi, I’m @YeahEsCereal </p>
-- Pronouns: He/Him
+<mark>
+  <p class="Title"> Hi, I’m @YeahEsCereal </p>
+  - Pronouns: He/Him
+  </mark>
 <style>
   * {
     text-align: center;
