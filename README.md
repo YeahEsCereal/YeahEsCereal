@@ -1,7 +1,5 @@
-<mark>
-  <p class="Title"> Hi, I’m @YeahEsCereal </p>
-  - Pronouns: He/Him
-  </mark>
+<p class="Title"> Hi, I’m @YeahEsCereal </p>
+<p> Pronouns: He/Him </p>
 <style>
   * {
     text-align: center;
@@ -11,8 +9,3 @@
     font-weight: bold
   }
 </style>
-
-<!---
-YeahEsCereal/YeahEsCereal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
